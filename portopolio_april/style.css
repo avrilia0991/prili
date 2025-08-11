@@ -1,0 +1,28 @@
+body{
+    background-color: white;
+}
+h1{
+    color: rgb(0, 36, 66);
+}
+.box{
+    background: rgb(255, 193, 193);
+    height:300px;
+    width:400px;
+    margin:80px auto;
+    border-radius: 15px;
+    padding:15px;
+}
+.p1{
+    color: rgb(250, 246, 249);
+}
+
+img{
+    width: 130px;
+    border-radius: 100px;
+}
+h1{
+    color: rgb(238, 133, 241);
+}
+h2{
+    color: aliceblue;
+}
